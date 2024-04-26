@@ -1,0 +1,10 @@
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\bin\Debug\nabludatel.exe.config
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\bin\Debug\nabludatel.exe
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\bin\Debug\nabludatel.pdb
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.csproj.AssemblyReference.cache
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.Form1.resources
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.Properties.Resources.resources
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.csproj.GenerateResource.cache
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.exe
+C:\Users\Ann\Desktop\работа\nabludatel\nabludatel\obj\Debug\nabludatel.pdb
