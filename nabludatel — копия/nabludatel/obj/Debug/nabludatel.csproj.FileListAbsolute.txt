@@ -18,3 +18,13 @@ C:\Users\Ann\Desktop\работа\nabludatel — копия\nabludatel\obj\Debug
 C:\Users\Ann\Desktop\работа\nabludatel — копия\nabludatel\bin\Debug\nabludatel.exe.config
 C:\Users\Ann\Desktop\работа\nabludatel — копия\nabludatel\bin\Debug\nabludatel.exe
 C:\Users\Ann\Desktop\работа\nabludatel — копия\nabludatel\bin\Debug\nabludatel.pdb
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\bin\Debug\nabludatel.exe.config
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\bin\Debug\nabludatel.exe
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\bin\Debug\nabludatel.pdb
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.csproj.AssemblyReference.cache
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.Form1.resources
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.Properties.Resources.resources
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.csproj.GenerateResource.cache
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.exe
+C:\Users\Ann\Documents\GitHub\LAba3_OOAP\nabludatel — копия\nabludatel\obj\Debug\nabludatel.pdb

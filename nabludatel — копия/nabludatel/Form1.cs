@@ -53,21 +53,21 @@ namespace nabludatel
 
                 if(weight < 2000)
                 {
-                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\11.png");
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\11.png");
                 }
                 else
                 if (weight <=4000 &&  weight >=2000)
                 {
-                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\12.png");
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\12.png");
                 }
                 else
                 if(weight <=6500 &&  (weight >4000))
                 {
-                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\13.png");
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\13.png");
                 }
                 else
                 {
-                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\14.png");
+                    pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\14.png");
                 }
 
                 if (ageTime > 240)
@@ -112,29 +112,33 @@ namespace nabludatel
             //KittyData dat = new KittyData();
 
             int run;
-            run = Run.Rrun(dat);
+            run = KittyData.Rrun(dat);
             (string, string, string) data = dat.setData(high, weight, ageTime);
             if (weight < 2000 && ageTime < 12)
             {
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\11.png");
+                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\11.png");
             }
             else
                 if (weight <= 4000 && weight >= 2000 && ageTime <=16)
             {
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\12.png");
+                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\12.png");
             }
             else
                 if (weight <= 6500 && (weight > 4000) && ageTime >16)
             {
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\13.png");
+                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\13.png");
             }
             else
             {
-                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Desktop\\работа\\14.png");
+                pictureBox1.Image = Image.FromFile("C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\14.png");
             }
             labelHealth.Text = data.Item1;
             labelType.Text = data.Item3;
             labelOften.Text = data.Item2;
+
+            highChange.Text = high.ToString();
+            weightChange.Text = weight.ToString();
+            month.Text = ageTime.ToString();
         }
     }
 
@@ -201,14 +205,9 @@ namespace nabludatel
 
         }
 
-
-    }
-
-    public class Run
-    {
         public static int Rrun(KittyData kittyData)
         {
-            
+
 
             kittyData.high = kittyData.getHigh();
             kittyData.weight = kittyData.getWeight();
@@ -218,15 +217,35 @@ namespace nabludatel
             HowOftenKittyEatingDisplay how = new HowOftenKittyEatingDisplay(kittyData);
             TypeOfKittyDisplay type = new TypeOfKittyDisplay(kittyData);
 
-            //kittyData.registerNabludatel(health);
-            //kittyData.registerNabludatel(how);
-            //kittyData.registerNabludatel(type);
-
             return 1;
 
-            //kittyData.setData(high, weight, age);
         }
+
     }
+
+    //public class Run
+    //{
+    //    public static int Rrun(KittyData kittyData)
+    //    {
+            
+
+    //        kittyData.high = kittyData.getHigh();
+    //        kittyData.weight = kittyData.getWeight();
+    //        kittyData.age = kittyData.getAge();
+
+    //        HealthKittyDisplay health = new HealthKittyDisplay(kittyData);
+    //        HowOftenKittyEatingDisplay how = new HowOftenKittyEatingDisplay(kittyData);
+    //        TypeOfKittyDisplay type = new TypeOfKittyDisplay(kittyData);
+
+    //        //kittyData.registerNabludatel(health);
+    //        //kittyData.registerNabludatel(how);
+    //        //kittyData.registerNabludatel(type);
+
+    //        return 1;
+
+    //        //kittyData.setData(high, weight, age);
+    //    }
+    //}
 
     public class HealthKittyDisplay : Nabludatel
     {

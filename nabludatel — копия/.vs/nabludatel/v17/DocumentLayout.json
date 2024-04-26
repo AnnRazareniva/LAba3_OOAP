@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ann\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "WorkspaceRootPath": "C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D954B79-EEBD-4FD2-82FA-035E1BF6C743}|nabludatel\\nabludatel.csproj|c:\\users\\ann\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D954B79-EEBD-4FD2-82FA-035E1BF6C743}|nabludatel\\nabludatel.csproj|c:\\users\\ann\\documents\\github\\laba3_ooap\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D954B79-EEBD-4FD2-82FA-035E1BF6C743}|nabludatel\\nabludatel.csproj|solutionrelative:nabludatel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D954B79-EEBD-4FD2-82FA-035E1BF6C743}|nabludatel\\nabludatel.csproj|C:\\Users\\Ann\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D954B79-EEBD-4FD2-82FA-035E1BF6C743}|nabludatel\\nabludatel.csproj|C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D954B79-EEBD-4FD2-82FA-035E1BF6C743}|nabludatel\\nabludatel.csproj|solutionrelative:nabludatel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ann\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs",
               "RelativeDocumentMoniker": "nabludatel\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ann\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs",
               "RelativeToolTip": "nabludatel\\Form1.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAMwL0AAAAQAAAA",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAowEEBAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T08:26:05.413Z",
               "EditorCaption": ""
@@ -45,10 +45,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Ann\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ann\\Documents\\GitHub\\LAba3_OOAP\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs",
               "RelativeDocumentMoniker": "nabludatel\\Form1.cs",
               "ToolTip": "C:\\Users\\Ann\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "nabludatel\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u0430\\nabludatel \u2014 \u043A\u043E\u043F\u0438\u044F\\nabludatel\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T06:26:11.377Z"
             }
